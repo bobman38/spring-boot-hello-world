@@ -1,5 +1,7 @@
 # Spring Boot Hello World
 
+[![Build Status](https://travis-ci.org/bobman38/spring-boot-hello-world.svg?branch=master)](https://travis-ci.org/bobman38/spring-boot-hello-world)
+
 Just a small java spring webapp test
 
 ## Getting Started
